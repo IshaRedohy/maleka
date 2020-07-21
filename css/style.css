@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+}
+
+.banner1{
+	background-image:  url(../images/pic1.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover; /*pic choto hoile cover kore fele */
+}
+
+.banner2{
+	background-image:  url(../images/pic2.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner3{
+	background-image:  url(../images/pic3.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner4{
+	background-image:  url(../images/pic4.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner5{
+	background-image:  url(../images/pic5.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner6{
+	background-image:  url(../images/pic6.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+img{
+	max-width: 100%;
+}
+h1{
+	margin: 0;
+	font-size: 60px;
+	/* text-transform: lowercase; */
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+	line-height: 1.6;
+	color: #ecdada;
+}
+
+.content-box{
+	background: #352c2c5c;
+	padding: 30px 50px;
+	color: #fff;
+}
